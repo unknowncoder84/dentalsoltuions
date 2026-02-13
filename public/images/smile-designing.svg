@@ -1,0 +1,21 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fce4ec;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f48fb1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg2)"/>
+  
+  <!-- Smile -->
+  <ellipse cx="600" cy="450" rx="300" ry="200" fill="none" stroke="#e91e63" stroke-width="12"/>
+  <path d="M400 400Q600 550 800 400" fill="none" stroke="#e91e63" stroke-width="12" stroke-linecap="round"/>
+  
+  <!-- Teeth -->
+  <rect x="520" y="380" width="40" height="60" rx="8" fill="white" stroke="#e91e63" stroke-width="3"/>
+  <rect x="570" y="380" width="40" height="60" rx="8" fill="white" stroke="#e91e63" stroke-width="3"/>
+  <rect x="620" y="380" width="40" height="60" rx="8" fill="white" stroke="#e91e63" stroke-width="3"/>
+  
+  <!-- Text -->
+  <text x="600" y="800" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#e91e63" text-anchor="middle">Smile Designing</text>
+</svg>

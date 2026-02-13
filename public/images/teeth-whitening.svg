@@ -1,0 +1,28 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8f5e9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#81c784;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg5)"/>
+  
+  <!-- Before/After divider -->
+  <line x1="600" y1="150" x2="600" y2="750" stroke="white" stroke-width="8"/>
+  
+  <!-- Before (left) -->
+  <path d="M400 300C370 300 355 315 345 330C335 345 325 360 315 400C305 440 315 500 335 540C345 560 355 560 365 540C375 520 385 480 395 460C405 440 415 440 415 440C415 440 425 440 435 460C445 480 455 520 465 540C475 560 485 560 495 540C515 500 525 440 515 400C505 360 495 345 485 330C475 315 460 300 430 300C415 300 407.5 300 400 300Z" fill="#f5f5dc" stroke="#4caf50" stroke-width="6"/>
+  
+  <!-- After (right) -->
+  <path d="M800 300C770 300 755 315 745 330C735 345 725 360 715 400C705 440 715 500 735 540C745 560 755 560 765 540C775 520 785 480 795 460C805 440 815 440 815 440C815 440 825 440 835 460C845 480 855 520 865 540C875 560 885 560 895 540C915 500 925 440 915 400C905 360 895 345 885 330C875 315 860 300 830 300C815 300 807.5 300 800 300Z" fill="white" stroke="#4caf50" stroke-width="6"/>
+  
+  <!-- Sparkles on right -->
+  <path d="M750 250L765 265L750 280L735 265Z" fill="#ffeb3b"/>
+  <path d="M850 250L865 265L850 280L835 265Z" fill="#ffeb3b"/>
+  <path d="M800 200L815 215L800 230L785 215Z" fill="#ffeb3b"/>
+  
+  <!-- Text -->
+  <text x="300" y="650" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#4caf50" text-anchor="middle">Before</text>
+  <text x="900" y="650" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#4caf50" text-anchor="middle">After</text>
+  <text x="600" y="800" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#4caf50" text-anchor="middle">Teeth Whitening</text>
+</svg>

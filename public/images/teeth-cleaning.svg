@@ -1,0 +1,20 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e3f2fd;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#90caf9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg1)"/>
+  
+  <!-- Tooth -->
+  <path d="M600 200C550 200 520 230 500 260C480 290 460 320 440 400C420 480 440 600 480 680C500 720 520 720 540 680C560 640 580 560 600 520C620 480 640 480 640 480C640 480 660 480 680 520C700 560 720 640 740 680C760 720 780 720 800 680C840 600 860 480 840 400C820 320 800 290 780 260C760 230 730 200 680 200C650 200 625 200 600 200Z" fill="white" stroke="#1e88e5" stroke-width="8"/>
+  
+  <!-- Sparkles -->
+  <path d="M450 300L470 320L450 340L430 320Z" fill="#64b5f6"/>
+  <path d="M750 300L770 320L750 340L730 320Z" fill="#64b5f6"/>
+  <path d="M600 150L620 170L600 190L580 170Z" fill="#64b5f6"/>
+  
+  <!-- Text -->
+  <text x="600" y="800" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#1e88e5" text-anchor="middle">Teeth Cleaning</text>
+</svg>

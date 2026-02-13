@@ -1,0 +1,19 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fff3e0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffb74d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg4)"/>
+  
+  <!-- Tooth cross-section -->
+  <path d="M600 200C550 200 520 230 500 260C480 290 460 320 440 400C420 480 440 600 480 680C500 720 520 720 540 680C560 640 580 560 600 520C620 480 640 480 640 480C640 480 660 480 680 520C700 560 720 640 740 680C760 720 780 720 800 680C840 600 860 480 840 400C820 320 800 290 780 260C760 230 730 200 680 200C650 200 625 200 600 200Z" fill="white" stroke="#ff9800" stroke-width="8"/>
+  
+  <!-- Root canal -->
+  <line x1="600" y1="300" x2="600" y2="520" stroke="#ff5722" stroke-width="12" stroke-dasharray="10,5"/>
+  <circle cx="600" cy="400" r="30" fill="#ff5722" opacity="0.5"/>
+  
+  <!-- Text -->
+  <text x="600" y="800" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#ff9800" text-anchor="middle">Root Canal Treatment</text>
+</svg>
